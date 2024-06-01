@@ -24,7 +24,7 @@ export default function Sidebar() {
                             <li>Java 17</li>
                             <li>Spring Framework</li>
                             <li>RxJava</li>
-                            <li>noSql</li>
+                            <li>Hibernate</li>
                             <li>Sql</li>
                         </ul>
 
@@ -40,6 +40,30 @@ export default function Sidebar() {
 
                     </div>
 
+
+                </div>
+                <div className="row">
+                    <h3>Software Tools:</h3>
+                    <div className="col-sm-6">
+                        <ul>
+                            <li>Git</li>
+                            <li>Maven</li>
+                            <li>Docker</li>
+                            <li>Kubernetes</li>
+                            <li>AWS</li>
+                        </ul>
+
+                    </div>
+                    <div className="col-sm-6">
+                        <ul>
+                            <li>Junit</li>
+                            <li>MySql</li>
+                            <li>Apache Kafka</li>
+                            <li>MongoDb</li>
+                            <li>GCP</li>
+                        </ul>
+
+                    </div>
 
                 </div>
                 <div className="row">
